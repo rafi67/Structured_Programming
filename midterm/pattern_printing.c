@@ -109,7 +109,7 @@ void pattern_8(int n) { // pattern_8
         ++value;
         n2+=2;
     }
-} // pattern_9
+} // pattern_8
 
 int main() {
 
