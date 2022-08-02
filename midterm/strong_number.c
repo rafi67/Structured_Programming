@@ -33,8 +33,8 @@ int main() {
         result += a[i];
     }
 
-    if(result==n) printf("%d is a strong number\n", n);
-    else printf("%d is not a strong number\n", n);
+    if(result==n) printf("Strong\n", n);
+    else printf("Not Strong\n", n);
 
     return 0;
 
