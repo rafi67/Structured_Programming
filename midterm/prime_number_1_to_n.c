@@ -1,8 +1,8 @@
 #include <stdio.h>
 #define mx 1000000
 
-int cross[mx];
-int prime[mx];
+int cross[mx+5];
+int prime[mx+5];
 int idx = 1;
 
 void sieve() {
