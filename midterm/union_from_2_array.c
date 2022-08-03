@@ -15,7 +15,7 @@ void sort(int a[], int size) {
 
 int main() {
 
-    int a1[5], a2[5], element_number = 0;
+    int a1[5], a2[5];
 
     int a[10];
     
